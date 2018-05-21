@@ -1,0 +1,2 @@
+# -gitdir
+just another repository
